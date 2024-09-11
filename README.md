@@ -4,7 +4,7 @@
 - 📫 If you want to study together with me and talk about knowledge of computer science and technology, please contact me in the way as follows:
 	- QQ: 1821552335
 	- Wechat: chestNut_Lsj
-	- Email: chestnut_lsj@foxmail.com / chipmuck-senj@outlook.com
+	- Email: chestnut_lsj@foxmail.com / chestnutlsj@gmail.com / lisj24@mails.tsinghua.edu.cn
 
 <!---
 chestNutLsj/chestNutLsj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
